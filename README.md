@@ -1,3 +1,3 @@
 # Image-Compression
 
-Image Compression using Pthon.
+Image Compression using Python.
